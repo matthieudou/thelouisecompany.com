@@ -29,7 +29,7 @@
     "@sendgrid/mail": "^6.4.0",
     "dotenv": "^8.0.0",
     "groq": "^1.150.1",
-    "gsap": "^3.5.1",
+    "gsap": "^3.6.0",
     "intersection-observer": "^0.7.0",
     "lodash": "^4.17.11",
     "netlify-lambda": "^1.6.3",
